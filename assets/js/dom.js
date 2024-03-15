@@ -35,5 +35,5 @@ function showSlides(n) {
 // Event listener for the "Back to Home" button
 document.getElementById("homeButton").addEventListener("click", function() {
   // Redirect to the home page
-  window.location.href = ".../index.html";
+  window.location.href = "index.html";
 });
