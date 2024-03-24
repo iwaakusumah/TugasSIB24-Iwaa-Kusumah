@@ -35,10 +35,5 @@ function showSlides(n) {
 // Event listener for the "Back to Home" button
 document.getElementById("homeButton").addEventListener("click", function() {
   // Redirect to the home page
-<<<<<<< HEAD
-  window.location.href = "./index.html";
-});
-=======
   window.location.href = "https://iwaakusumah.github.io/TugasSIB24-Iwaa-Kusumah/index.html";
 });
->>>>>>> cd6db46ba1b22839e32f9f1a76a0009c8ec8bf3b
